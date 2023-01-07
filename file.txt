@@ -1,0 +1,18 @@
+        <div class="relative">
+          <input type="radio" name="user" id="user1" class="hidden peer">
+          <label for="user1" class="flex items-center hover:bg-opacity-75 peer-checked:bg-purple-900 peer-checked:text-white cursor-pointer transition">
+            <h1 class="w-fit peer-checked:bg-orange-500 px-5 py-3 rounded-full bg-gray-700 hover:bg-MediumGrey text-center">1</h1>
+          </label>
+        </div>
+        <div class="relative">
+          <input type="radio" name="user" id="user2" class="hidden peer">
+          <label for="one" class="flex items-center hover:bg-opacity-75 peer-checked:bg-purple-900 peer-checked:text-white cursor-pointer transition">
+            <h1 class="w-fit peer-checked:bg-orange-500 px-5 py-3 rounded-full bg-gray-700 hover:bg-MediumGrey text-center">1</h1>
+          </label>
+        </div>
+        <div class="relative">
+          <input type="radio" name="user" id="user1" class="hidden peer">
+          <label for="one" class="flex items-center hover:bg-opacity-75 peer-checked:bg-purple-900 peer-checked:text-white cursor-pointer transition">
+            <h1 class="w-fit peer-checked:bg-orange-500 px-5 py-3 rounded-full bg-gray-700 hover:bg-MediumGrey text-center">1</h1>
+          </label>
+        </div>
