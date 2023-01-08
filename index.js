@@ -15,7 +15,6 @@ inputs.forEach(input=>{
     input.addEventListener("click",(e)=>{
         let select;
         for( const items of inputs ){
-            console.log(items)
             if(items.checked){
                 select = items.value;
                 break;
